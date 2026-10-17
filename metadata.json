@@ -1,0 +1,6 @@
+{
+  "name": "AI Protocol & Event Operations Engine",
+  "description": "Sistema de Inteligência Operacional de Protocolo e Gestão de Eventos Corporativos para a Corporate Experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
